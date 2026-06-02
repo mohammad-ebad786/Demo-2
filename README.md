@@ -1,2 +1,3 @@
 # Demo-2
-This is my Second Git Repository
+This is my Second Git Repositor
+Author - Mohammad Ebad
